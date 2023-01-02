@@ -5,8 +5,8 @@ Introdução ao Git e ao Github - DIO TECH. {^.^} :books: </h3>***
 
 ***<h3> :clipboard: Descrição: </h3>*** 
 
-Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, <br/>
-atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados <br/>
+Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, <br/> atualização 
+e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados <br/>
 pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, <br/>
 o primeiro (de muitos) projetos do seu portfólio. ✨:smile:✨
 
