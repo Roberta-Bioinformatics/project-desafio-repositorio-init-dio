@@ -1,9 +1,9 @@
 <h2 align="center"> ✨ Olá! {(◠‿◠)} ✨ </h2>
 
 ***<h3> 📚 Repositório inicialmente desenvolvido para a entrega de projeto referente ao curso: <br/>
-Introdução ao Git e ao Gihub - DIO TECH. {^.^} :books: </h3>*** 
+Introdução ao Git e ao Github - DIO TECH. {^.^} :books: </h3>*** 
 
-***<h3> 📚 Descrição: </h3>***
+***<h3> :clipboard: Descrição: </h3>*** 
 
 Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, <br/>
 atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados <br/>
