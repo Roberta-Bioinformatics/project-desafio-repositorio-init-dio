@@ -1,7 +1,7 @@
 <h2 align="center"> ✨ Olá! {(◠‿◠)} ✨ </h2>
 
-***<h3> 📚 Repositório inicialmente desenvolvido para a entrega de projeto referente ao curso: <br/>
-Introdução ao Git e ao Github - DIO TECH. {^.^} :books: </h3>*** 
+***<h3> :green_heart:📚:blue_heart: Repositório inicialmente desenvolvido para a entrega de projeto referente ao curso: <br/>
+Introdução ao Git e ao Github - DIO TECH. {^.^} :blue_heart::books::green_heart: </h3>*** 
 
 ***<h3> :clipboard: Descrição: </h3>*** 
 
