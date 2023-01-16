@@ -1,6 +1,6 @@
 <h2 align="center"> ✨ Olá! {(◠‿◠)} ✨ </h2>
 
-<h2 align="center"> :green_heart:📚:blue_heart: Repositório referente ao desafio de projeto:<br/> Introdução ao Git e ao Github - DIO TECH.  :blue_heart::books::green_heart: </h2><br/>
+<h2 align="center"> :green_heart:📚:blue_heart: Repositório referente ao desafio de projeto da DIO | GFT:<br/> Módulo: Princípios de programação e testes com Java.<BR/>Curso: Introdução ao Git e ao Github. ^.^ :blue_heart::books::green_heart: </h2><br/>
 
 ***<h3> :clipboard: Descrição: </h3>*** 
 
