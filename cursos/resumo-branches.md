@@ -1,10 +1,10 @@
-# Branches no Git - Branches em poucas palavras :books:
+<h1 align="center"> :books:👩‍💻 Branches no Git 👩‍💻:books: </h1><br/>
 
 Quase todo Sistema de Controle de Versionamento tem alguma forma de suporte a ramificações (Branches). Ramificação significa que você diverge da linha principal de desenvolvimento e continua a trabalhar sem alterar essa linha principal. Em muitas ferramentas versionamento, este é um processo um tanto difícil, geralmente exigindo que você crie uma nova cópia do diretório do código-fonte, o que pode demorar muito em projetos maiores.
 
 Algumas pessoas se referem ao modelo de ramificação do Git como seu “recurso matador” e certamente diferencia o Git na comunidade de sistemas de versionamento. Por que isso é tão especial? A forma como o Git cria branches é incrivelmente leve, tornando as operações de ramificação quase instantâneas, alternando entre os branches geralmente com a mesma rapidez. Ao contrário de muitos outros sistemas, o Git incentiva fluxos de trabalho que se ramificam e se fundem com frequência, até mesmo várias vezes ao dia. Compreender e dominar esse recurso oferece uma ferramenta poderosa e única e pode mudar totalmente a maneira como você desenvolve.
 
-## Branches em poucas palavras
+***<h2> 📚 Branches em poucas palavras: </h2>*** 
 
 Para realmente entender como o Git trabalha com Branches, precisamos dar um passo atrás e examinar como o Git armazena seus dados.
 
@@ -23,8 +23,9 @@ $ git commit -m 'The initial commit of my project'
 
 Quando você faz um commit executando `git commit`, o Git verifica cada subdiretório (neste caso, apenas o diretório raiz do projeto) e armazena esses objetos no repositório do Git. O Git então cria um objeto de commit que possui os metadados e um ponteiro para a raiz do projeto para que ele possa recriar aquele snapshots quando necessário.
 
-Seu repositório Git agora contém cinco objetos: um blob para o conteúdo de cada um dos seus três arquivos, uma árvore que lista o conteúdo do diretório e especifica quais nomes de arquivo são armazenados e quais seus blobs e um commit com o ponteiro para essa árvore e todos os metadados de commit.
+Seu repositório Git agora contém cinco objetos: um blob para o conteúdo de cada um dos seus três arquivos, uma árvore que lista o conteúdo do diretório e especifica quais nomes de arquivo são armazenados e quais seus blobs e um commit com o ponteiro para essa árvore e todos os metadados de commit. :smile:
 
 
+<h3 align="center"> {✿◠‿◠} Muita gratidão! ✨🤗✨<br/><h3>  
 
-:smile:
+___
