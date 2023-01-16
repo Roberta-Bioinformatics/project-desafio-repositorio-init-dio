@@ -1,7 +1,6 @@
 <h2 align="center"> ✨ Olá! {(◠‿◠)} ✨ </h2>
 
-***<h3> :green_heart:📚:blue_heart: Repositório inicialmente desenvolvido para a entrega de projeto referente ao curso: <br/>
-Introdução ao Git e ao Github - DIO TECH. {^.^} :blue_heart::books::green_heart: </h3>*** 
+<h2 align="center"> :green_heart:📚:blue_heart: Repositório referente ao desafio de projeto:<br/> Introdução ao Git e ao Github - DIO TECH.  :blue_heart::books::green_heart: </h2><br/>
 
 ***<h3> :clipboard: Descrição: </h3>*** 
 
@@ -12,8 +11,11 @@ o primeiro (de muitos) projetos do seu portfólio. ✨:smile:✨
 
 <h2 :smile: </h2>
 
-***<h3> 🖌️  Observação: </h3>*** A criação do repositório foi realizado 💗 seguindo cada etapa fornecida em aula, <br/>
-com a finalidade também, de aprendizados com comandos via prompt. 💛 👩‍💻 🧡
+***<h3> 🖌️  Observação: </h3>*** A criação do repositório foi realizado 💗 seguindo cada etapa fornecida em aula,
+com a finalidade também,<br/> de aprendizados com comandos via prompt. 💛 👩‍💻 🧡
   
-{✿◠‿◠} Muita gratidão! ✨🤗✨
+<h3 align="center"> {✿◠‿◠} Muita gratidão! ✨🤗✨<br/><h3> 
+
+![](https://korben.info/app/uploads/2018/03/jetpack-octocat-airlock-b4e1d022c0113c997328f6598d16e58ad049140e50da4859d6b4d174890bb1c8.jpg?w=640)
 ___
+
