@@ -10,7 +10,7 @@ o primeiro (de muitos) projetos do seu portfólio. ✨:four_leaf_clover::heart_e
 
 <h2 :smile: </h2>
 
-***<h3> 🖌️  Observação: </h3>*** A criação do repositório foi realizado 💗 seguindo cada etapa fornecida em aula,
+***<h3> 🖌️  Observação: </h3>*** A criação do repositório foi realizada 💗 seguindo cada etapa fornecida em aula,
 com a finalidade também,<br/> de aprendizados com comandos via prompt. 💛 👩‍💻 🧡
   
 <h3 align="center"> {✿◠‿◠} Muita gratidão! ✨🤗✨<br/><h3> 
